@@ -1,0 +1,1 @@
+This is my version of the project Lodash on Codecademy, where I re-create some functionality from the Lodash JS Utility Library.
